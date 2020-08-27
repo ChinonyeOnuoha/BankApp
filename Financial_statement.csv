@@ -1,2 +1,24 @@
-debit, Atha, 50000, , same as sender
-debit, Atha, 25000, flexing, Bolu
+deposit, credit, credit, 100000000 Atha, no comment
+withdrawal, debit, 50000, Atha no comment, same as sender
+transfer, debit, 25000, Bolu flexing, same as sender
+transfer, credit, credit, 25000 <__main__.Account object at 0x000001EA9809E6C8>, flexing
+deposit, credit, credit, 100000000 Atha, no comment
+withdrawal, debit, 50000, Atha no comment, same as sender
+transfer, debit, 25000, Bolu flexing, same as sender
+transfer, credit, credit, 25000 <__main__.Account object at 0x000001F88F49C688>, flexing
+deposit, credit, credit, 100000000 Atha, no comment
+withdrawal, debit, 50000, Atha no comment, same as sender
+transfer, debit, 25000, Bolu flexing, same as sender
+transfer, credit, credit, 25000 <__main__.Account object at 0x000001279C170BC8>, flexing
+deposit, credit, credit, 100000000 Atha, no comment
+withdrawal, debit, 50000, Atha no comment, same as sender
+transfer, debit, 25000, Bolu flexing, same as sender
+transfer, credit, credit, 25000 <__main__.Account object at 0x0000019CBA2DFC88>, flexing
+deposit, credit, credit, 100000000 Atha, no comment
+withdrawal, debit, 50000, Atha no comment, same as sender
+transfer, debit, 25000, Bolu flexing, same as sender
+transfer, credit, credit, 25000 Atha, flexing
+deposit, credit, 100000000, Atha, Atha, no comment
+withdrawal, debit, 50000, Atha, Atha, no comment
+transfer, debit, 25000, Atha, Bolu, flexing
+transfer, credit, 25000, Bolu, Atha, flexing
